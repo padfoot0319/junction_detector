@@ -1,0 +1,7 @@
+{
+  "Synthetic": true,
+  "BaseConfig": 7,
+  "RepeatCount": 100,
+  "GraphInput": "intermediate/graph_input_config10.json",
+  "Description": "Synthetic benchmark from config7, repeated 100 times"
+}

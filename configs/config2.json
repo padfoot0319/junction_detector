@@ -1,0 +1,47 @@
+{
+  "geomFiles": [
+    "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_377614976.json",
+    "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_377612244.json",
+    "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_377612245.json",
+    "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_377612158.json",
+    "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_377612159.json"
+  ],
+  "topoFiles": [
+    "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_377614976.json",
+    "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_377612244.json",
+    "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_377612245.json",
+    "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_377612158.json",
+    "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_377612159.json"
+  ],
+  "attrFiles": [
+    "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_377614976.json",
+    "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_377612244.json",
+    "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_377612245.json",
+    "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_377612158.json",
+    "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_377612159.json"
+  ],
+  "refFiles": [
+    "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_377614976.json",
+    "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_377612244.json",
+    "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_377612245.json",
+    "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_377612158.json",
+    "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_377612159.json"
+  ],
+    "routeFiles": [
+    "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_377614976.json",
+    "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_377612244.json",
+    "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_377612245.json",
+    "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_377612158.json",
+    "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_377612159.json"
+  ],
+  "OriginAltCm": 0,
+  "Undirected": true,
+  "node_merge_eps": 0.10,
+  "k_end_candidates": 1,
+  "start": [52.38454, 9.90147],
+  "goal": [52.39947, 9.89005],
+  "start_is_gnss": true,
+  "goal_is_gnss": true,
+  "exports_dir": "exports",
+  "Description": "T interchange"
+}

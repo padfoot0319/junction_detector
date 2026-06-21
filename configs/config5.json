@@ -1,0 +1,19 @@
+{
+  "geomPrefix": "lane_geometry_polyline/here-hdlm-protobuf-weu-2_lane-geometry-polyline_", 
+  "topoPrefix": "lane_topology/here-hdlm-protobuf-weu-2_lane-topology_", 
+  "attrPrefix": "lane_attributes/here-hdlm-protobuf-weu-2_lane-attributes_", 
+  "refPrefix": "lane_road_references/here-hdlm-protobuf-weu-2_lane-road-references_", 
+  "routePrefix": "routing_attributes/here-hdlm-protobuf-weu-2_routing-attributes_",
+  "tiles": [377642679, 377642684, 377642685, 377642686, 377642722, 377642728, 377642730, 377642731, 377648148, 377648150,
+            377648151, 377648193, 377648194, 377648195, 377648196, 377648198, 377648204, 377648205, 377648206],
+  "OriginAltCm": 0,
+  "Undirected": true,
+  "node_merge_eps": 0.10,
+  "k_end_candidates": 1,
+  "start": [52.38454, 9.90147],
+  "goal": [52.39947, 9.89005],
+  "start_is_gnss": true,
+  "goal_is_gnss": true,
+  "exports_dir": "exports",
+  "Description": "Cloverleaf interchange"
+}
