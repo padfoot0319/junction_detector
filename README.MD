@@ -5,6 +5,9 @@
 **Student:** Merve Nur Zembil
 **Student Number:** 2376242
 
+## IMPORTANT NOTE:
+Large sized files such as lane_attributes, final visualizations etc. had to be left out of the github repository as github did not allow them.
+
 ## Overview
 
 `junction_detector` is a CPU/CUDA project for detecting complex junction candidates in HERE HD map data. The input is a set of HERE HDLM JSON tile files and configuration files. The output is a JSON file that can be used by the MATLAB visualization script of my project group to display detected junctions, primary/boundary roads, secondary/interior roads, and non-junction background roads.
